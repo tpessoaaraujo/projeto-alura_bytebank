@@ -1,6 +1,6 @@
 # 💳 Bytebank - Gerenciamento de Conta Bancária
 
-Sistema web para gerenciamento de conta bancária desenvolvido durante o curso de projeto com TypeScript e módulos, com tutoria do [Jhonatan Jacinto](https://github.com/jhonatanjacinto). <br>
+Sistema web para gerenciamento de conta bancária desenvolvido durante o curso Alura TypeScript de modularização e orientação a objetos, com tutoria de [Jhonatan Jacinto](https://github.com/jhonatanjacinto) e [Mônica Hillman](https://github.com/MonicaHillman). <br>
 Este projeto foi criado para simular operações bancárias básicas, como consulta de saldo, transferências, depósitos e pagamento de boletos.
 
 ## 🚀 Tecnologias Utilizadas
@@ -23,7 +23,7 @@ O sistema permite ao usuário realizar as seguintes operações:
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/bytebank.git
+   git clone https://github.com/tpessoaaraujo/projeto-alura_bytebank.git
    ```
 2. Acesse a pasta do projeto:
    ```bash
